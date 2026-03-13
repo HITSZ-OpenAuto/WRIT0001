@@ -14,6 +14,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 董思聪
   <!-- TOML-ITEM: id="review-董思聪-1" -->
   - **主题：方言**
