@@ -66,6 +66,12 @@ content = """
 """
 author = { name = "cxy", link = "https://github.com/CXY-practical", date = "2024-12" }
 
+[[lecturers.items.reviews]]
+content = """
+授课风格：24-26主题都没变（听说原本是打算换成人工智能主题），老王太夯了，老师完全不会挂人，打分之类的事情会和同学直接说明，想不来直接和老师发邮件请假就行，上课也幽默风趣，有很多干货（就业/保研/升学），而且比较会调动气氛，上课会发免费的小甜水。
+"""
+author = { name = "离谱", link = "https://github.com/LiPu-jpg", date = "2026-3" }
+
 [[lecturers.items]]
 name = "王昕"
 
