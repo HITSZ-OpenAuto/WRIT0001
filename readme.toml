@@ -22,7 +22,7 @@ description = """
 """
 
 [sections]
-title ="主题"
+title = "主题"
 
 [[sections.items]]
 name = "方言"
